@@ -1,7 +1,6 @@
 __author__ = 'andrew.sielen'
 
-# Credit to: http://stackoverflow.com/users/1404614/jaime-ivan-cervantes
-# http://stackoverflow.com/questions/11242967/python-search-with-image-google-images
+
 
 import time
 import urllib
